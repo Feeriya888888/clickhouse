@@ -1,0 +1,13 @@
+# Генерируемые данные
+data/users.csv
+data/products.csv
+data/events.csv
+data/orders.csv
+data/order_items.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# ClickHouse данные тома
+ch_data/
